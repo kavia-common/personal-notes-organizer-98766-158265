@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.NotesApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorSecondary">#424242</item>
+        <item name="colorSecondaryContainer">#FFC107</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>
